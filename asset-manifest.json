@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/worldOfRecipe/static/css/main.e210e9b8.css",
-    "main.js": "/worldOfRecipe/static/js/main.55b55f3c.js",
-    "index.html": "/worldOfRecipe/index.html",
-    "main.e210e9b8.css.map": "/worldOfRecipe/static/css/main.e210e9b8.css.map",
-    "main.55b55f3c.js.map": "/worldOfRecipe/static/js/main.55b55f3c.js.map"
+    "main.css": "/posts/static/css/main.e210e9b8.css",
+    "main.js": "/posts/static/js/main.55b55f3c.js",
+    "index.html": "/posts/index.html",
+    "main.e210e9b8.css.map": "/posts/static/css/main.e210e9b8.css.map",
+    "main.55b55f3c.js.map": "/posts/static/js/main.55b55f3c.js.map"
   },
   "entrypoints": [
     "static/css/main.e210e9b8.css",
